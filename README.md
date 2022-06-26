@@ -1,16 +1,21 @@
-### Hi there 👋
+<h1 align="center">Hiya 👋, I'm Lorenzo3421 (aka Lorfy/Lorfo the Wolf)</h1>
+<h3 align="center">I'm an Italian self-taught programmer</h3>
 
-<!--
-**lorenzo3421/lorenzo3421** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">&nbsp;<img
+        src="https://github-readme-stats.vercel.app/api?username=lorenzo3421&show_icons=true&theme=dark&locale=en"
+        alt="lorenzo3421" /></p>
 
-Here are some ideas to get you started:
+<h3 align="left">Contact me:</h3>
+<p align="left">Telegram: <strong>@lorenzo3421</strong>
+<br />Discord: <strong>Lorenzo3421@3173</strong></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Languages and Tools:</h3>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,python,bash,lua,dotnet,github,unity,linux,vim,vscode,docker,cloudflare&perline=4" />
+  </a>
+</p>
+
+<h3 align="left">Support:</h3>
+<p><a href="https://ko-fi.com/lorenzo3421"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50"
+            width="210" alt="lorenzo3421" /></a></p><br><br>
